@@ -48,6 +48,45 @@ Users are not responsible for hardware and software updates. Updates are applied
 The services are purchased on the pay-as-per-use basis
 Example: BigCommerce, Google Apps, Salesforce, Dropbox, ZenDesk, Cisco WebEx, ZenDesk, Slack, and GoToMeeting.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+4=Cloud Computing Architectur?
+The cloud architecture is divided into 2 parts i.e.
+
+Frontend
+Backend
+
+Architecture of cloud computing is the combination of both SOA (Service Oriented Architecture) and EDA (Event Driven Architecture). Client infrastructure, application, service, runtime cloud, storage, infrastructure, management and security all these are the components of cloud computing architecture.
+
+1. Frontend :
+Frontend of the cloud architecture refers to the client side of cloud computing system. Means it contains all the user interfaces and applications which are used by the client to access the cloud computing services/resources. For example, use of a web browser to access the cloud platform.
+
+Client Infrastructure – Client Infrastructure is a part of the frontend component. It contains the applications and user interfaces which are required to access the cloud platform.
+In other words, it provides a GUI( Graphical User Interface ) to interact with the cloud.
+2. Backend : 
+Backend refers to the cloud itself which is used by the service provider. It contains the resources as well as manages the resources and provides security mechanisms. Along with this, it includes huge storage, virtual applications, virtual machines, traffic control mechanisms, deployment models, etc.
+
+Application –
+Application in backend refers to a software or platform to which client accesses. Means it provides the service in backend as per the client requirement.
+Service –
+Service in backend refers to the major three types of cloud based services like SaaS, PaaS and IaaS. Also manages which type of service the user accesses.
+ Runtime Cloud-
+Runtime cloud in backend provides the execution and Runtime platform/environment to the Virtual machine.
+Storage –
+Storage in backend provides flexible and scalable storage service and management of stored data.
+Infrastructure –
+Cloud Infrastructure in backend refers to the hardware and software components of cloud like it includes servers, storage, network devices, virtualization software etc.
+Management –
+Management in backend refers to management of backend components like application, service, runtime cloud, storage, infrastructure, and other security mechanisms etc.
+Security –
+Security in backend refers to implementation of different security mechanisms in the backend for secure cloud resources, systems, files, and infrastructure to end-users.
+Internet –
+Internet connection acts as the medium or a bridge between frontend and backend and establishes the interaction and communication between frontend and backend.
+Database– Database in backend refers to provide database for storing structured data, such as SQL and NOSQL databases. Example of Databases services include Amazon RDS, Microsoft Azure SQL database and Google CLoud SQL.  
+Networking– Networking in backend services that provide networking infrastructure for application in the cloud, such as load balancing, DNS and virtual private networks. 
+Analytics– Analytics in backend service that provides analytics capabillities for data in the cloud, such as warehousing, bussness intellegence and machine learning.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
