@@ -88,6 +88,11 @@ Analytics– Analytics in backend service that provides analytics capabillities 
 
 
 
+5=why do we region in aws?
+An AWS Region is a cluster of data centers in a specific geographic area, such as the Northeastern United States or Western Europe. It is a best practice to choose a region that is geographically close to users; this reduces latency because data reaches the users more quickly. Each AWS Region includes multiple AZs.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
